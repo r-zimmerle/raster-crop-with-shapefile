@@ -1,0 +1,13 @@
+# Ignore all .tif files
+*.tif
+
+# Ignore all shapefiles
+*.shp
+*.shx
+*.dbf
+*.prj
+*.cpg
+*.qmd
+
+# Do not ignore .gitkeep files
+!.gitkeep
