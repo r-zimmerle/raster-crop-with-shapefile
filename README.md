@@ -1,3 +1,5 @@
+# Raster Crop with Shapefile
+
 The goal of this repository is to demonstrate the use of a single script to perform the cropping of .tif images, using Sentinel-2 data and shapefiles as examples. In essence, with a single bash command, you can process a batch of images. Additionally, the developed code ensures the Coordinate Reference System (CRS) is checked and aligned.
 
 ![Animated Example](animated-example/example.gif)
