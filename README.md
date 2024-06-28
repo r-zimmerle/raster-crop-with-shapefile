@@ -12,7 +12,9 @@ To use this repository, follow these steps:
     
     - First, clone the repository to your local machine using the following command:
         
-        `git clone <repository_url>`
+     ```bash
+     git clone https://github.com/r-zimmerle/raster-crop-with-shapefile.git
+     ```
         
 2. **Organize Your Files**:
     
