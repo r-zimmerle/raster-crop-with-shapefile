@@ -37,13 +37,19 @@ To use this repository, follow these steps:
     
     - To install these libraries, create and activate your Conda environment, then run:
         
-        `conda create --name gdal_env conda activate gdal_env conda install -c conda-forge gdal fiona shapely rasterio geopandas`
+        ```bash
+        conda create --name gdal_env
+        conda activate gdal_env
+        conda install -c conda-forge gdal fiona shapely rasterio geopandas
+        ```
         
     #### Option 2: Using pip
     
     - To install these libraries, run:
         
-        `pip install gdal fiona shapely rasterio geopandas`
+        ```bash
+        pip install gdal fiona shapely rasterio geopandas
+        ```
         
 4. **Run the Script**:
     
